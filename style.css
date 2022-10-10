@@ -1,0 +1,31 @@
+
+
+#bearlogo {
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    border-color: black;
+    border-style:solid; 
+    border-width: 1px;
+    padding:-50%;
+    margin-left:100px;
+    margin-top:8px;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    object-fit:fill;
+    
+}
+
+#logocrop{
+ 
+}
+
+div {
+    display:inline-block;
+}
+
+#RiccardoPicture {
+    width: 30%;
+    height:auto;
+}
